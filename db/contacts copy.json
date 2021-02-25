@@ -59,16 +59,11 @@
     "email": "Donec.elementum@scelerisquescelerisquedui.net",
     "phone": "(748) 206-2688"
   },
+
   {
-    "id": "c0dc3e18-577c-4625-8332-944a05a4f0d3",
-    "name": "kily",
-    "email": "b@b.ru",
-    "phone": 123
-  },
-  {
-    "id": "6615e385-2bb7-4b8e-adf6-6460d9d18591",
-    "name": "Lumi",
-    "email": "b@br.com",
-    "phone": 123
+    "id": 111,
+    "name": "Test man",
+    "email": "Donec.elementum@scelerisquescelerisquedui.net",
+    "phone": "(748) 206-2688"
   }
 ]
